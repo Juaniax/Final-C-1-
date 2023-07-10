@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\C# nivel 1\Final\TpFinal_Paolone\bin\Debug\net7.0\TpFinal_Paolone.exe
+C:\Users\Admin\Desktop\C# nivel 1\Final\TpFinal_Paolone\bin\Debug\net7.0\TpFinal_Paolone.deps.json
+C:\Users\Admin\Desktop\C# nivel 1\Final\TpFinal_Paolone\bin\Debug\net7.0\TpFinal_Paolone.runtimeconfig.json
+C:\Users\Admin\Desktop\C# nivel 1\Final\TpFinal_Paolone\bin\Debug\net7.0\TpFinal_Paolone.dll
+C:\Users\Admin\Desktop\C# nivel 1\Final\TpFinal_Paolone\bin\Debug\net7.0\TpFinal_Paolone.pdb
+C:\Users\Admin\Desktop\C# nivel 1\Final\TpFinal_Paolone\obj\Debug\net7.0\TpFinal_Paolone.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\C# nivel 1\Final\TpFinal_Paolone\obj\Debug\net7.0\TpFinal_Paolone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\C# nivel 1\Final\TpFinal_Paolone\obj\Debug\net7.0\TpFinal_Paolone.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\C# nivel 1\Final\TpFinal_Paolone\obj\Debug\net7.0\TpFinal_Paolone.AssemblyInfo.cs
+C:\Users\Admin\Desktop\C# nivel 1\Final\TpFinal_Paolone\obj\Debug\net7.0\TpFinal_Paolone.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C# nivel 1\Final\TpFinal_Paolone\obj\Debug\net7.0\TpFinal_Paolone.dll
+C:\Users\Admin\Desktop\C# nivel 1\Final\TpFinal_Paolone\obj\Debug\net7.0\refint\TpFinal_Paolone.dll
+C:\Users\Admin\Desktop\C# nivel 1\Final\TpFinal_Paolone\obj\Debug\net7.0\TpFinal_Paolone.pdb
+C:\Users\Admin\Desktop\C# nivel 1\Final\TpFinal_Paolone\obj\Debug\net7.0\TpFinal_Paolone.genruntimeconfig.cache
+C:\Users\Admin\Desktop\C# nivel 1\Final\TpFinal_Paolone\obj\Debug\net7.0\ref\TpFinal_Paolone.dll
